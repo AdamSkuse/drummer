@@ -1,0 +1,12 @@
+CSS Keyboard Drummer
+---
+
+My attempt at the Javascript Drumkit tutorial at https://javascript30.com/
+
+v1 requirements
+- it has onscreen buttons that animate when their corresponding keys are pressed
+
+v2 requirements
+- each key, when pressed, plays the drum sound to which it has been assigned
+
+
