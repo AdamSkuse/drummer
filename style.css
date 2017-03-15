@@ -26,6 +26,10 @@ body {
     margin: 5px;
     font-style: oblique;
     border-color: #f90;
+    transition: all 0.07s;
 }
 
+.playing {
+    transform: scale(1.4);
+}
 
